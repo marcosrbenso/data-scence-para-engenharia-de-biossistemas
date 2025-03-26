@@ -1,6 +1,4 @@
-# Aula: Árvores, Redes e Ensemble Learning no Contexto de Engenharia de Biossistemas
 
----
 
 ## Informações da Disciplina
 - **Disciplina:** Ciência de Dados para Engenharia de Biossistemas
