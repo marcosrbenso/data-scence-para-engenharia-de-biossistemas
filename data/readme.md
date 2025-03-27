@@ -1,0 +1,1 @@
+Dados retirados do Kaggle disponvíeis em} [https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset?resource=download]{https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset?resource=download}
