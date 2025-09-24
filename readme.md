@@ -1,5 +1,6 @@
 ![alt text](https://www.esalq.usp.br/comunicaesalq/sites/default/files/01-Esalq-Versao-completa-Digital.png)
 
+
 ## Informações
 - **Disciplina:** Ciência de Dados para Engenharia de Biossistemas
 - **Carga Horária:** 60 horas
